@@ -1,0 +1,19 @@
+{
+      "expo": {
+        "name": "2D Permaculture Garden Planner",
+        "slug": "2d-permaculture-garden",
+        "version": "1.0.0",
+        "sdkVersion": "48.0.0",
+        "platforms": ["ios", "android"],
+        "android": {
+          "package": "com.example.permaculturegarden",
+          "versionCode": 1
+        },
+        "ios": {
+          "bundleIdentifier": "com.example.permaculturegarden"
+        },
+        "web": {
+          "bundleIdentifier": "com.example.permaculturegarden"
+        }
+      }
+    }
